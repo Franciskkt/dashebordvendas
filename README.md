@@ -17,9 +17,8 @@ Este projeto é um dashboard interativo criado no Power BI para análise de vend
 
 ## 🖼️ Print do Dashboard
 
-*(adicione aqui uma imagem do dashboard)*  
-Exemplo:
-![Dashboard Vendas](imagens/dashboard.png)
+
+![image](https://github.com/user-attachments/assets/b57ebda2-12b4-4720-920d-2b0d1f655b17)
 
 ## 📁 Arquivos do Projeto
 

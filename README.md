@@ -16,9 +16,10 @@ Este projeto é um dashboard interativo criado no Power BI para análise de vend
 - GitHub para versionamento
 
 ## 🖼️ Print do Dashboard
+![image](https://github.com/user-attachments/assets/14ba95fe-9c42-416d-b928-217c432fb5ff)
 
+![image](https://github.com/user-attachments/assets/04800fd3-5001-483e-a033-fb7bfbe4cc7a)
 
-![image](https://github.com/user-attachments/assets/b57ebda2-12b4-4720-920d-2b0d1f655b17)
 
 ## 📁 Arquivos do Projeto
 
@@ -26,9 +27,14 @@ Este projeto é um dashboard interativo criado no Power BI para análise de vend
 - `dados/`: arquivos de dados usados no projeto
 - `imagens/`: prints do dashboard
 
+## 🔗 Acesse o Dashboard
+
+📥 Baixe ou visualize o projeto aqui:  
+[🔗 Clique para abrir no OneDrive](https://1drv.ms/u/c/9137e0ecd3928a3f/EZp7eYfrSItEnSXQfN9d664BwjHSw8cu4qo0c8F0V2t0eA?e=6imcyc)
+
 ## 🚀 Como Abrir o Projeto
 
-1. Baixe o arquivo `dashboard.pbix`
+1. Baixe o arquivo `.pbix` do link acima
 2. Abra com o **Power BI Desktop**
 3. Explore e interaja com os dados!
 
@@ -36,6 +42,4 @@ Este projeto é um dashboard interativo criado no Power BI para análise de vend
 
 Francis Rodrigues de Oliveira  
 [LinkedIn](https://www.linkedin.com/in/franciskkt)
-
----
 
